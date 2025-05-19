@@ -1,0 +1,4 @@
+#Tue May 13 15:24:19 GMT 2025
+base.0=/home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

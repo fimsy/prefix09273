@@ -1,0 +1,14 @@
+org.qtproject.example.myAppv2-core-runtime-2.2.0-0 /home/nullmind/.gradle/caches/8.12/transforms/5c61a7fe28780313b8dfd1000b17457b/transformed/core-runtime-2.2.0/res
+org.qtproject.example.myAppv2-core-1.13.1-1 /home/nullmind/.gradle/caches/8.12/transforms/6333199e01c11a086be1a63e1258fadd/transformed/core-1.13.1/res
+org.qtproject.example.myAppv2-startup-runtime-1.1.1-2 /home/nullmind/.gradle/caches/8.12/transforms/66ef5ded101de47073ce566a6d2e608d/transformed/startup-runtime-1.1.1/res
+org.qtproject.example.myAppv2-lifecycle-runtime-2.6.2-3 /home/nullmind/.gradle/caches/8.12/transforms/97d804ade5479cbdee6d72a2d6093ca6/transformed/lifecycle-runtime-2.6.2/res
+org.qtproject.example.myAppv2-profileinstaller-1.3.0-4 /home/nullmind/.gradle/caches/8.12/transforms/b69fddadd08775edbdbfcc16b1ca3b40/transformed/profileinstaller-1.3.0/res
+org.qtproject.example.myAppv2-annotation-experimental-1.4.0-5 /home/nullmind/.gradle/caches/8.12/transforms/e051e927e1a82fff8c9bd301b1319691/transformed/annotation-experimental-1.4.0/res
+org.qtproject.example.myAppv2-java-6 /home/nullmind/Qt/6.9.0/android_arm64_v8a/src/android/java/res
+org.qtproject.example.myAppv2-pngs-7 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/generated/res/pngs/release
+org.qtproject.example.myAppv2-resValues-8 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/generated/res/resValues/release
+org.qtproject.example.myAppv2-packageReleaseResources-9 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+org.qtproject.example.myAppv2-packageReleaseResources-10 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+org.qtproject.example.myAppv2-release-11 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/build/intermediates/merged_res/release/mergeReleaseResources
+org.qtproject.example.myAppv2-android-build-12 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/res
+org.qtproject.example.myAppv2-release-13 /home/nullmind/Vscode/myAppv2/build/Android_Qt_6_9_0_android_arm64_v8a_Clang_arm64_v8a-Release/android-build/src/release/res
